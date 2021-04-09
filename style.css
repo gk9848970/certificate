@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+  box-sizing: border-box;
+}
+
+.certificate {
+  width: 1056px;
+  height: 816px;
+  margin: 0 auto;
+  background: #27AAE2;
+  padding: 40px;
+  /* padding-left: 0; */
+  display: flex;
+}
+
+.certificate__left {
+  padding: 15px;
+  width: 30%;
+  background: #A6DDF2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.left--img1 {
+  height: 160px;
+  width: auto;
+  margin-top: 120px;
+  margin-left: -20px;
+}
+
+.website {
+  margin-top: 2px;
+  margin-bottom: 78px;
+  color: #004997 !important;
+}
+
+.address {
+  margin-bottom: 130px;
+}
+
+.left--img2 {
+  background: #04376F;
+  padding: 10px;
+  height: 160px;
+  width: auto;
+}
+
+.certificate__right {
+  padding: 16px;
+  width: 70%;
+  background: white;
+}
+
+.right__logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.right--img1 {
+  height: 80px;
+  width: auto;
+}
+
+.right--img2 {
+  height: 75px;
+  width: auto;
+}
+
+.post {
+  display: flex;
+  margin-top: 60px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.post__left {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+
+.post__right {
+  display: flex;
+  flex-direction: column;
+}
+
+.signature {
+  height: 80px;
+  width: auto;
+}
+
+.color-prime {
+  color: #0a5270;
+}
+
+.color-sub {
+  color: #27AAE2;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-small {
+  font-size: 20px;
+  font-weight: 400;
+  color: #0c5474;
+}
+
+.text-big-heading {
+  font-size: 40px;
+  font-weight: 500;
+  color: #00448f;
+}
+
+.text-big {
+  font-size: 28px;
+  color: #004ca0;
+}
+
+.mt1 {
+  margin-top: 10px;
+}
+
+.mt2 {
+  margin-top: 20px;
+}
+
+.mt3 {
+  margin-top: 30px;
+}
+
+.mt4 {
+  margin-top: 40px;
+}
+
+.mt5 {
+  margin-top: 50px;
+}
+
+.mt6 {
+  margin-top: 60px;
+}
+
+.mt7 {
+  margin-top: 70px;
+}
+
+.mt8 {
+  margin-top: 80px;
+}
